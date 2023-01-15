@@ -1,4 +1,4 @@
-package com.itproger.construct;
+package com.itproger.constructor;
 
 public class Transport {
 
